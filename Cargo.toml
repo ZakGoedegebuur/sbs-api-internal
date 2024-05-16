@@ -1,7 +1,11 @@
 [package]
 name = "sbs-api-internal"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
+license = "MIT"
+description = "Internals for sbs-api crate"
+documentation = "https://docs.rs/sbs-api-internal"
+repository = "https://github.com/ZakGoedegebuur/sbs-api-internal"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
